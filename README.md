@@ -65,6 +65,8 @@ How to get <trader_id>:
 .../um?encryptedUid=2959F6FAD4BDD96952B86D72E7C9FAF3  
 3. Copy this Trader ID: **2959F6FAD4BDD96952B86D72E7C9FAF3**
 
+**For now only USDⓈ-M leaders availabe**
+
 - Request example
 ```
 {

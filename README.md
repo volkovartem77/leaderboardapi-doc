@@ -164,7 +164,28 @@ async def websocket_client():
 
 if __name__ == "__main__":
     asyncio.run(websocket_client())
-
 ```
 
+## Terms of Use
+### Limitation of Liability
+By accessing and using the Leaderboard API, you acknowledge and agree that the utilization of the Leaderboard API is at your own discretion and risk. The author, developer, or provider of the Leaderboard API (hereafter referred to as "the Author") shall not be liable for any direct, indirect, incidental, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses (even if the Author has been advised of the possibility of such damages), resulting from:
+
+The use or the inability to use the Leaderboard API;
+The cost of procurement of substitute goods and services resulting from any goods, data, information, or services purchased or obtained or messages received or transactions entered into through or from the Leaderboard API;
+Unauthorized access to or alteration of your transmissions or data;
+Statements or conduct of any third party on the Leaderboard API;
+Any bugs, viruses, Trojan horses, or the like, which may be transmitted to or through the Leaderboard API by any third party; or
+Any other matter relating to the Leaderboard API.
+Furthermore, the Author does not warrant that:
+
+The service will meet your requirements;
+The service will be uninterrupted, timely, secure, or error-free;
+The results that may be obtained from the use of the service will be accurate or reliable;
+The quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations; and
+Any errors in the software will be corrected.
+Any material downloaded or otherwise obtained through the use of the Leaderboard API is done at your own discretion and risk, and you will be solely responsible for any damage to your computer system or loss of data that results from the download of any such material.
+
+You expressly understand and agree that the Author shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses (even if the Author has been advised of the possibility of such damages), resulting from the use or the inability to use the Leaderboard API.
+
+By using the Leaderboard API, you agree to hold harmless and indemnify the Author and its affiliates, officers, agents, and employees from and against any claim, suit, or action arising from or related to the use of the Leaderboard API or violation of these terms, including any liability or expense arising from claims, losses, damages, suits, judgments, litigation costs, and attorneys’ fees.
 

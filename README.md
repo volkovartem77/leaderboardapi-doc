@@ -53,7 +53,7 @@ from streams. Examples can be seen below.
 }
 ```
 
-### Traders Positions Stream
+### Trader Positions Stream
 
 **Stream Name:** leader@<trader_id>
 

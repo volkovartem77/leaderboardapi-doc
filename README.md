@@ -143,7 +143,7 @@ import json
 
 import websockets
 
-token = "YOUR_TOKEN_HERE"  # Get the token here https://leaderboardapi.net/get_token
+token = "YOUR_TOKEN_HERE"  # Get the token here https://rapidapi.com/volckovtyoma/api/binance-leaderboard5/
 
 
 async def websocket_client():
